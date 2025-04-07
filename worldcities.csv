@@ -129,7 +129,7 @@ Melbourne,-37.8142,144.9631,Australia,AU,AUS,admin,1036533631
 Yichun,27.816,114.417,China,CN,CHN,minor,1156229590
 Bozhou,33.8626,115.7742,China,CN,CHN,,1156356860
 Suqian,33.9331,118.2831,China,CN,CHN,,1156212349
-Abidjan,5.3167,-4.0333,Côte d’Ivoire,CI,CIV,primary,1384207980
+Abidjan,5.3167,-4.0333,C?e d?voire,CI,CIV,primary,1384207980
 Ji'an,27.0912,114.9668,China,CN,CHN,minor,1156278215
 Guilin,25.275,110.296,China,CN,CHN,minor,1156235364
 Pingdingshan,33.735,113.2999,China,CN,CHN,,1156735124
@@ -496,7 +496,7 @@ Agra,27.18,78.02,India,IN,IND,,1356187395
 Leon de los Aldama,21.1167,-101.6833,Mexico,MX,MEX,minor,1484811199
 Puebla,19.0333,-98.1833,Mexico,MX,MEX,admin,1484416394
 Columbus,39.9862,-82.9855,United States,US,USA,admin,1840003760
-Yopougon,5.3167,-4.0667,Côte d’Ivoire,CI,CIV,,1384759584
+Yopougon,5.3167,-4.0667,C?e d?voire,CI,CIV,,1384759584
 Hebi,35.748,114.297,China,CN,CHN,,1156114258
 Shiraz,29.61,52.5425,Iran,IR,IRN,admin,1364432238
 Madurai,9.9252,78.1198,India,IN,IND,minor,1356257289
@@ -1004,7 +1004,7 @@ Osasco,-23.5328,-46.7919,Brazil,BR,BRA,,1076786452
 Nampula,-15.1167,39.2667,Mozambique,MZ,MOZ,admin,1508958445
 Pretoria,-25.7461,28.1881,South Africa,ZA,ZAF,primary,1710176249
 Kyaukse,21.6131,96.1303,Burma,MM,MMR,,1104814217
-Myanmar,21.9162,95.9560 ,Burma,,,,
+Myanmar,21.9162,95.956,Burma,,,,
 Chengguan,35.4623,113.8054,China,CN,CHN,minor,1156866870
 Nehe,48.4833,124.8833,China,CN,CHN,minor,1156609562
 Cabinda,-5.56,12.19,Angola,AO,AGO,admin,1024474012
@@ -1078,7 +1078,7 @@ Pendik,40.8747,29.235,Turkey,TR,TUR,minor,1792824929
 Salem,11.65,78.15,India,IN,IND,,1356567087
 Shishi,24.7167,118.7,China,CN,CHN,minor,1156077046
 Sinnuris,29.4072,30.8667,Egypt,EG,EGY,,1818442898
-Cocody,5.35,-3.9667,Côte d’Ivoire,CI,CIV,,1384351512
+Cocody,5.35,-3.9667,C?e d?voire,CI,CIV,,1384351512
 Miluo Chengguanzhen,28.761,113.16,China,CN,CHN,minor,1156690651
 Lokoja,7.8019,6.7442,Nigeria,NG,NGA,admin,1566772925
 Guadalupe,25.6775,-100.2597,Mexico,MX,MEX,minor,1484002410
@@ -1138,7 +1138,7 @@ Al Hufuf,25.3833,49.5833,Saudi Arabia,SA,SAU,,1682958157
 Jalingo,8.9,11.3667,Nigeria,NG,NGA,admin,1566732241
 Sargodha,32.0836,72.6711,Pakistan,PK,PAK,minor,1586696588
 Karaikandi,24.8309,92.6143,India,IN,IND,,1356669973
-Bouake,7.6833,-5.0167,Côte d’Ivoire,CI,CIV,admin,1384983838
+Bouake,7.6833,-5.0167,C?e d?voire,CI,CIV,admin,1384983838
 Lingbao Chengguanzhen,34.5176,110.8942,China,CN,CHN,minor,1156837145
 Brampton,43.6833,-79.7667,Canada,CA,CAN,,1124625989
 Abomey-Calavi,6.4486,2.3556,Benin,BJ,BEN,,1204016569
@@ -1209,7 +1209,7 @@ Jambi,-1.59,103.61,Indonesia,ID,IDN,admin,1360645580
 Halwan,29.8453,31.3333,Egypt,EG,EGY,,1818000039
 Provo,40.2457,-111.6457,United States,US,USA,,1840020174
 Tan An,10.905,106.6994,Vietnam,VN,VNM,,1704599287
-Port-Bouet,5.2667,-3.9,Côte d’Ivoire,CI,CIV,,1384512844
+Port-Bouet,5.2667,-3.9,C?e d?voire,CI,CIV,,1384512844
 Pontianak,-0.0206,109.3414,Indonesia,ID,IDN,admin,1360992394
 Meihekou,42.5407,125.7107,China,CN,CHN,minor,1156474288
 Jurong,31.946,119.164,China,CN,CHN,,1156897463
@@ -1701,7 +1701,7 @@ London,42.9836,-81.2497,Canada,CA,CAN,,1124469960
 Piracicaba,-22.7253,-47.6492,Brazil,BR,BRA,,1076166252
 Yogyakarta,-7.8014,110.3644,Indonesia,ID,IDN,admin,1360384833
 Toyota,35.0824,137.1563,Japan,JP,JPN,,1392498272
-Daloa,6.8833,-6.45,Côte d’Ivoire,CI,CIV,admin,1384564974
+Daloa,6.8833,-6.45,C?e d?voire,CI,CIV,admin,1384564974
 Agadir,30.4333,-9.6,Morocco,MA,MAR,admin,1504116858
 Elazig,38.6744,39.2228,Turkey,TR,TUR,admin,1792156766
 Uijeongbu,37.7486,127.0389,"Korea, South",KR,KOR,,1410888678
@@ -1750,7 +1750,7 @@ Khon Kaen,16.4333,102.8333,Thailand,TH,THA,admin,1764003406
 Fangting,31.127,104.167,China,CN,CHN,minor,1156384608
 Linghai,41.1667,121.35,China,CN,CHN,,1156081300
 Shorapur,16.52,76.76,India,IN,IND,,1356512373
-Koumassi,5.3,-3.95,Côte d’Ivoire,CI,CIV,,1384863297
+Koumassi,5.3,-3.95,C?e d?voire,CI,CIV,,1384863297
 Betim,-19.9678,-44.1978,Brazil,BR,BRA,,1076953384
 Sochi,43.5853,39.7203,Russia,RU,RUS,,1643009782
 Tinnevelly,8.7136,77.7567,India,IN,IND,,1356037155
@@ -1829,7 +1829,7 @@ Khayelitsha,-34.0403,18.6778,South Africa,ZA,ZAF,,1710736316
 Ad Diwaniyah,31.9892,44.9247,Iraq,IQ,IRQ,admin,1368864006
 Nnewi,6.0167,6.9167,Nigeria,NG,NGA,minor,1566097410
 Hancheng,35.4667,110.4333,China,CN,CHN,,1156265838
-San-Pedro,4.75,-6.6333,Côte d’Ivoire,CI,CIV,admin,1384436547
+San-Pedro,4.75,-6.6333,C?e d?voire,CI,CIV,admin,1384436547
 Gujrat,32.5739,74.0789,Pakistan,PK,PAK,minor,1586006990
 Yokosuka,35.2813,139.6721,Japan,JP,JPN,,1392003389
 Tieli,46.95,128.05,China,CN,CHN,minor,1156769379
@@ -2224,7 +2224,7 @@ Poughkeepsie,41.695,-73.9211,United States,US,USA,,1840000500
 Kingston upon Hull,53.7444,-0.3325,United Kingdom,GB,GBR,,1826028894
 Binangonan,14.4514,121.1919,Philippines,PH,PHL,,1608102511
 Temara,33.9267,-6.9122,Morocco,MA,MAR,,1504016606
-Attiecoube,5.3333,-4.0333,Côte d’Ivoire,CI,CIV,,1384919817
+Attiecoube,5.3333,-4.0333,C?e d?voire,CI,CIV,,1384919817
 Jiayuguan,39.7732,98.2882,China,CN,CHN,minor,1156177210
 Pasir Gudang,1.5028,103.9356,Malaysia,MY,MYS,,1458548800
 Vologda,59.2167,39.9,Russia,RU,RUS,admin,1643013685
@@ -2404,7 +2404,7 @@ Tacna,-18.0147,-70.2489,Peru,PE,PER,admin,1604388134
 Tin Shui Wai,22.46,114.002,Hong Kong,HK,HKG,,1344389641
 Juazeiro do Norte,-7.2,-39.3333,Brazil,BR,BRA,minor,1076912078
 Al Qurnah,31.0158,47.4306,Iraq,IQ,IRQ,minor,1368380047
-Korhogo,9.4167,-5.6167,Côte d’Ivoire,CI,CIV,admin,1384205840
+Korhogo,9.4167,-5.6167,C?e d?voire,CI,CIV,admin,1384205840
 Bhatinda,30.23,74.9519,India,IN,IND,,1356343054
 Katowice,50.2625,19.0217,Poland,PL,POL,admin,1616798495
 Jalna,19.8333,75.8833,India,IN,IND,,1356730545
@@ -2463,7 +2463,7 @@ Maastricht,50.85,5.6833,Netherlands,NL,NLD,admin,1528563623
 Viet Tri,21.3,105.4333,Vietnam,VN,VNM,admin,1704332956
 Sunderland,54.906,-1.381,United Kingdom,GB,GBR,,1826736387
 Kostroma,57.7681,40.9269,Russia,RU,RUS,admin,1643869304
-Gagnoa,6.1333,-5.9333,Côte d’Ivoire,CI,CIV,admin,1384138010
+Gagnoa,6.1333,-5.9333,C?e d?voire,CI,CIV,admin,1384138010
 Xingsha,28.2573,113.1234,China,CN,CHN,minor,1156111934
 Dire Dawa,9.6,41.8667,Ethiopia,ET,ETH,admin,1231089714
 Lashkar Gah,31.5831,64.3692,Afghanistan,AF,AFG,admin,1004765445
@@ -2492,7 +2492,7 @@ Tsu,34.7184,136.5057,Japan,JP,JPN,admin,1392082102
 Rockford,42.2596,-89.064,United States,US,USA,,1840009132
 Imperatriz,-5.5333,-47.4833,Brazil,BR,BRA,minor,1076486025
 Los Alcarrizos,18.5167,-70.0167,Dominican Republic,DO,DOM,,1214807042
-Soubre,5.7833,-6.6,Côte d’Ivoire,CI,CIV,minor,1384745470
+Soubre,5.7833,-6.6,C?e d?voire,CI,CIV,minor,1384745470
 Reading,40.34,-75.9267,United States,US,USA,,1840001185
 Szekesfehervar,47.1956,18.4089,Hungary,HU,HUN,admin,1348968301
 Majene,-3.5403,118.9707,Indonesia,ID,IDN,minor,1360498576
@@ -2590,7 +2590,7 @@ Malolos,14.8433,120.8114,Philippines,PH,PHL,admin,1608358783
 Heroica Nogales,31.3186,-110.9458,Mexico,MX,MEX,minor,1484364591
 Bariadi,-2.7919,33.9894,Tanzania,TZ,TZA,admin,1834546025
 Hong,10.2317,12.9303,Nigeria,NG,NGA,minor,1566033629
-Oume,6.3833,-5.4167,Côte d’Ivoire,CI,CIV,minor,1384920146
+Oume,6.3833,-5.4167,C?e d?voire,CI,CIV,minor,1384920146
 Fuchu,35.6689,139.4776,Japan,JP,JPN,,1392370709
 Minato,35.6581,139.7514,Japan,JP,JPN,,1392294093
 Boksburg,-26.2125,28.2625,South Africa,ZA,ZAF,,1710932183
@@ -2782,7 +2782,7 @@ Kahama,-3.8375,32.6,Tanzania,TZ,TZA,,1834043034
 Halle,51.4828,11.9697,Germany,DE,DEU,minor,1276167077
 Americana,-22.7386,-47.3311,Brazil,BR,BRA,,1076922153
 Zhangping,25.2902,117.42,China,CN,CHN,minor,1156352113
-Man,7.4,-7.55,Côte d’Ivoire,CI,CIV,admin,1384112524
+Man,7.4,-7.55,C?e d?voire,CI,CIV,admin,1384112524
 Sete Lagoas,-19.4658,-44.2469,Brazil,BR,BRA,,1076863850
 Banchpar,23.2,90.8,Bangladesh,BD,BGD,,1050224894
 Haeju,38.0333,125.7167,"Korea, North",KP,PRK,admin,1408348983
@@ -3021,7 +3021,7 @@ Deltona,28.905,-81.2137,United States,US,USA,,1840015072
 Tchaourou,8.8833,2.6,Benin,BJ,BEN,,1204695000
 Rufisque,14.7167,-17.2667,Senegal,SN,SEN,,1686348669
 San Bernardino,34.1416,-117.2943,United States,US,USA,,1840021728
-Duekoue,6.7333,-7.35,Côte d’Ivoire,CI,CIV,minor,1384429839
+Duekoue,6.7333,-7.35,C?e d?voire,CI,CIV,minor,1384429839
 Gainesville,29.6804,-82.3459,United States,US,USA,,1840014022
 Sambhal,28.58,78.55,India,IN,IND,,1356376216
 San Felipe,10.3406,-68.7369,Venezuela,VE,VEN,admin,1862716082
@@ -3105,7 +3105,7 @@ La Victoria,10.2278,-67.3336,Venezuela,VE,VEN,minor,1862054455
 Warnes,-17.5167,-63.1667,Bolivia,BO,BOL,,1068890339
 Cascais,38.7,-9.4167,Portugal,PT,PRT,minor,1620824685
 Cigli,38.4833,27.05,Turkey,TR,TUR,,1792478520
-Marcory,5.3,-3.9833,Côte d’Ivoire,CI,CIV,,1384405403
+Marcory,5.3,-3.9833,C?e d?voire,CI,CIV,,1384405403
 Chilas,35.4194,74.0944,Pakistan,PK,PAK,minor,1586064350
 Sikasso,11.3167,-5.6667,Mali,ML,MLI,admin,1466666150
 Osan,37.1498,127.0771,"Korea, South",KR,KOR,,1410606985
@@ -3228,7 +3228,7 @@ Ongole,15.506,80.049,India,IN,IND,,1356385136
 Cordoba,18.8942,-96.9347,Mexico,MX,MEX,minor,1484179679
 Brahmanpara,23.6167,91.1083,Bangladesh,BD,BGD,,1050744970
 Biskra,34.85,5.7333,Algeria,DZ,DZA,admin,1012947247
-Bingerville,5.35,-3.9,Côte d’Ivoire,CI,CIV,minor,1384754377
+Bingerville,5.35,-3.9,C?e d?voire,CI,CIV,minor,1384754377
 Betigeri,15.443,75.6442,India,IN,IND,,1356503334
 Sioux Falls,43.5396,-96.7311,United States,US,USA,,1840002648
 Mpanda,-6.35,31.0667,Tanzania,TZ,TZA,admin,1834127573
@@ -3625,7 +3625,7 @@ Budhanilkantha,27.7667,85.3667,Nepal,NP,NPL,,1524541414
 Uji,34.8844,135.7997,Japan,JP,JPN,,1392148678
 Mongu,-15.2775,23.1319,Zambia,ZM,ZMB,admin,1894761291
 Norilsk,69.3333,88.2167,Russia,RU,RUS,,1643832764
-Divo,5.8333,-5.3667,Côte d’Ivoire,CI,CIV,minor,1384831436
+Divo,5.8333,-5.3667,C?e d?voire,CI,CIV,minor,1384831436
 Calabar,4.9767,8.3383,Nigeria,NG,NGA,admin,1566495489
 Reims,49.2628,4.0347,France,FR,FRA,minor,1250608730
 Dosquebradas,4.8333,-75.6833,Colombia,CO,COL,minor,1170184135
@@ -3917,7 +3917,7 @@ Cienfuegos,22.1456,-80.4364,Cuba,CU,CUB,admin,1192020054
 Petropavlovsk-Kamchatskiy,53.0167,158.65,Russia,RU,RUS,admin,1643129247
 High Point,35.991,-79.9937,United States,US,USA,,1840014479
 Bocoio,-12.45,14.15,Angola,AO,AGO,,1024922883
-Abengourou,6.7333,-3.4833,Côte d’Ivoire,CI,CIV,admin,1384295898
+Abengourou,6.7333,-3.4833,C?e d?voire,CI,CIV,admin,1384295898
 Tuscaloosa,33.2348,-87.5268,United States,US,USA,,1840005563
 Conjeeveram,12.8185,79.6947,India,IN,IND,,1356148941
 Hadano,35.3667,139.2167,Japan,JP,JPN,,1392003173
@@ -4012,7 +4012,7 @@ Miyakonojo,31.7194,131.0617,Japan,JP,JPN,,1392003484
 Dong Hoi,17.4831,106.5997,Vietnam,VN,VNM,admin,1704323043
 Tra Vinh,9.9333,106.35,Vietnam,VN,VNM,admin,1704929966
 Khanpur,28.65,70.68,Pakistan,PK,PAK,,1586169401
-Ferkessedougou,9.5833,-5.2,Côte d’Ivoire,CI,CIV,minor,1384974005
+Ferkessedougou,9.5833,-5.2,C?e d?voire,CI,CIV,minor,1384974005
 Southend,51.55,0.71,United Kingdom,GB,GBR,,1826524208
 Ciudad Acuna,29.3242,-100.9317,Mexico,MX,MEX,minor,1484828397
 Jose Maria Ezeiza,-34.8333,-58.5167,Argentina,AR,ARG,minor,1032337881
@@ -4098,7 +4098,7 @@ Saharsa,25.88,86.6,India,IN,IND,,1356492911
 Chaoshan,23.0768,113.8696,China,CN,CHN,,1156193615
 Ketou,7.3581,2.6075,Benin,BJ,BEN,,1204020661
 Rio das Ostras,-22.5269,-41.945,Brazil,BR,BRA,,1076148122
-Adzope,6.1667,-3.9833,Côte d’Ivoire,CI,CIV,minor,1384370507
+Adzope,6.1667,-3.9833,C?e d?voire,CI,CIV,minor,1384370507
 Portmore,17.95,-76.8799,Jamaica,JM,JAM,,1388926551
 Binghamton,42.1014,-75.9093,United States,US,USA,,1840000460
 Qalyub,30.1997,31.2053,Egypt,EG,EGY,,1818824672
@@ -4266,7 +4266,7 @@ Yilan,24.75,121.75,Taiwan,TW,TWN,admin,1158534780
 Sievierodonetsk,48.9481,38.4933,Ukraine,UA,UKR,minor,1804577024
 Urganch,41.55,60.6333,Uzbekistan,UZ,UZB,admin,1860546433
 Ocumare del Tuy,10.1136,-66.7814,Venezuela,VE,VEN,minor,1862015576
-Willemstad,12.108,-68.935,Curaçao,CW,CUW,primary,1531000000
+Willemstad,12.108,-68.935,Cura?o,CW,CUW,primary,1531000000
 Bavaro,18.7167,-68.45,Dominican Republic,DO,DOM,,1214902144
 Soro,21.29,86.69,India,IN,IND,,1356411349
 Penjamo,20.4311,-101.7222,Mexico,MX,MEX,minor,1484131107
@@ -4491,7 +4491,7 @@ Thornton,39.9197,-104.9438,United States,US,USA,,1840021422
 York,53.96,-1.08,United Kingdom,GB,GBR,,1826149980
 Mandsaur,24.03,75.08,India,IN,IND,,1356467529
 Jahrom,28.5031,53.5658,Iran,IR,IRN,minor,1364271412
-Bondoukou,8.0333,-2.8,Côte d’Ivoire,CI,CIV,admin,1384649653
+Bondoukou,8.0333,-2.8,C?e d?voire,CI,CIV,admin,1384649653
 Lausanne,46.5198,6.6335,Switzerland,CH,CHE,admin,1756055099
 Bocaue,14.8,120.93,Philippines,PH,PHL,,1608457468
 Khuzdar,27.8,66.6167,Pakistan,PK,PAK,,1586530458
@@ -4580,7 +4580,7 @@ Teluknaga,-6.0989,106.6381,Indonesia,ID,IDN,,1360011332
 Tarragona,41.1175,1.2528,Spain,ES,ESP,minor,1724296961
 Koga,36.1782,139.7554,Japan,JP,JPN,,1392720735
 Dipolog,8.5872,123.3408,Philippines,PH,PHL,admin,1608664300
-Dabou,5.3167,-4.3833,Côte d’Ivoire,CI,CIV,admin,1384274793
+Dabou,5.3167,-4.3833,C?e d?voire,CI,CIV,admin,1384274793
 Tsuchiura,36.0667,140.2,Japan,JP,JPN,,1392962266
 Tyler,32.3184,-95.3062,United States,US,USA,,1840022076
 Jacmel,18.2353,-72.5367,Haiti,HT,HTI,admin,1332314393
@@ -4610,7 +4610,7 @@ Kusatsu,35.0167,135.9667,Japan,JP,JPN,,1392082200
 Cunduacan,18.0667,-93.1667,Mexico,MX,MEX,minor,1484076708
 Dehri,24.91,84.18,India,IN,IND,,1356452600
 Hampton,37.0551,-76.363,United States,US,USA,,1840003866
-Sinfra,6.85,-5.9167,Côte d’Ivoire,CI,CIV,minor,1384501295
+Sinfra,6.85,-5.9167,C?e d?voire,CI,CIV,minor,1384501295
 Myebon,20.05,93.3667,Burma,MM,MMR,,1104625729
 Atibaia,-23.1172,-46.5506,Brazil,BR,BRA,,1076042485
 Quillacollo,-17.4,-66.2833,Bolivia,BO,BOL,,1068265899
@@ -4673,7 +4673,7 @@ Kent,47.3887,-122.2128,United States,US,USA,,1840018424
 Miramar,25.9773,-80.3351,United States,US,USA,,1840015137
 Andimeshk,32.4714,48.3489,Iran,IR,IRN,minor,1364453657
 Tizi Ouzou,36.7167,4.05,Algeria,DZ,DZA,admin,1012126997
-Agboville,5.9333,-4.2167,Côte d’Ivoire,CI,CIV,minor,1384823872
+Agboville,5.9333,-4.2167,C?e d?voire,CI,CIV,minor,1384823872
 Siwan,26.22,84.36,India,IN,IND,,1356238764
 Maldonado,-34.9,-54.95,Uruguay,UY,URY,admin,1858958595
 Ipetumodu,7.507,4.4447,Nigeria,NG,NGA,minor,1566155015
@@ -5023,7 +5023,7 @@ Pinsk,52.1153,26.1031,Belarus,BY,BLR,minor,1112209279
 Sunam,30.13,75.8,India,IN,IND,,1356036724
 Ouahigouya,13.5833,-2.4167,Burkina Faso,BF,BFA,admin,1854011699
 Rishra,22.71,88.35,India,IN,IND,,1356339732
-Grand-Bassam,5.2,-3.7333,Côte d’Ivoire,CI,CIV,minor,1384167408
+Grand-Bassam,5.2,-3.7333,C?e d?voire,CI,CIV,minor,1384167408
 Jharsugra,21.85,84.03,India,IN,IND,,1356155035
 Leeuwarden,53.2,5.7833,Netherlands,NL,NLD,admin,1528992603
 Pearland,29.5581,-95.3218,United States,US,USA,,1840020979
@@ -6093,7 +6093,7 @@ Nga Bay,9.8164,105.8197,Vietnam,VN,VNM,minor,1704893699
 Hong Ngu,10.833,105.283,Vietnam,VN,VNM,,1704773710
 Jeypore,18.8563,82.5716,India,IN,IND,,1356121332
 Zomba,-15.3869,35.3192,Malawi,MW,MWI,admin,1454072947
-Daoukro,7.05,-3.9667,Côte d’Ivoire,CI,CIV,minor,1384963890
+Daoukro,7.05,-3.9667,C?e d?voire,CI,CIV,minor,1384963890
 Santa Cruz,6.83,125.42,Philippines,PH,PHL,,1608664930
 Itaperuna,-21.205,-41.8878,Brazil,BR,BRA,,1076348886
 Oran,35.6969,-0.6331,Algeria,DZ,DZA,admin,1012126319
@@ -6101,7 +6101,7 @@ Mporokoso,-9.3833,30.1,Zambia,ZM,ZMB,,1894882927
 Quincy,42.2506,-71.0187,United States,US,USA,,1840000461
 Edinburg,26.3196,-98.1597,United States,US,USA,,1840021020
 Karanja,20.4833,77.4833,India,IN,IND,,1356886242
-Aboisso,5.4667,-3.2,Côte d’Ivoire,CI,CIV,minor,1384385857
+Aboisso,5.4667,-3.2,C?e d?voire,CI,CIV,minor,1384385857
 Salavan,15.7167,106.4167,Laos,LA,LAO,admin,1418448631
 Xirdalan,40.4486,49.7564,Azerbaijan,AZ,AZE,admin,1031145251
 Saint-Jerome,45.7833,-74,Canada,CA,CAN,,1124268324
@@ -6453,7 +6453,7 @@ Livonia,42.3972,-83.3733,United States,US,USA,,1840003985
 San Ramon,-33.5333,-70.6417,Chile,CL,CHL,,1152877656
 San Martin Jilotepeque,14.7833,-90.8,Guatemala,GT,GTM,minor,1320611842
 Williamsburg,37.2693,-76.7076,United States,US,USA,,1840001720
-Bouna,9.2667,-3,Côte d’Ivoire,CI,CIV,minor,1384414296
+Bouna,9.2667,-3,C?e d?voire,CI,CIV,minor,1384414296
 Legnica,51.2083,16.1603,Poland,PL,POL,minor,1616578356
 Kangan,34.263,74.903,India,IN,IND,,1356028772
 Suffolk,36.6953,-76.6398,United States,US,USA,,1840003873
@@ -6559,7 +6559,7 @@ Palimbang,6.22,124.2,Philippines,PH,PHL,,1608177821
 Nisshin,35.132,137.0394,Japan,JP,JPN,,1392999336
 Hanamaki Onsen,39.3886,141.1169,Japan,JP,JPN,,1392087821
 Tubingen,48.52,9.0556,Germany,DE,DEU,minor,1276203240
-Boundiali,9.5167,-6.4833,Côte d’Ivoire,CI,CIV,minor,1384246050
+Boundiali,9.5167,-6.4833,C?e d?voire,CI,CIV,minor,1384246050
 La Reina,-33.45,-70.55,Chile,CL,CHL,,1152154801
 Magadan,59.5667,150.8,Russia,RU,RUS,admin,1643216966
 Roswell,34.0391,-84.3513,United States,US,USA,,1840014741
@@ -6684,7 +6684,7 @@ Manteca,37.7927,-121.2264,United States,US,USA,,1840020265
 Funza,4.7167,-74.2167,Colombia,CO,COL,minor,1170562658
 Zhezqazghan,47.7833,67.7,Kazakhstan,KZ,KAZ,admin,1398121545
 Canakkale,40.1519,26.4056,Turkey,TR,TUR,admin,1792403093
-Katiola,8.1333,-5.1,Côte d’Ivoire,CI,CIV,minor,1384854888
+Katiola,8.1333,-5.1,C?e d?voire,CI,CIV,minor,1384854888
 Westminster,33.7523,-117.9938,United States,US,USA,,1840021969
 Biga,40.2281,27.2422,Turkey,TR,TUR,minor,1792033601
 Eslamabad-e Gharb,34.1103,46.5275,Iran,IR,IRN,minor,1364997109
@@ -6864,7 +6864,7 @@ Damaturu,11.7444,11.9611,Nigeria,NG,NGA,admin,1566897107
 Qiantangcun,23.6742,116.915,China,CN,CHN,,1156074442
 Hartlepool,54.69,-1.21,United Kingdom,GB,GBR,,1826069842
 Al Wakrah,25.18,51.61,Qatar,QA,QAT,admin,1634261569
-Sassandra,4.95,-6.0833,Côte d’Ivoire,CI,CIV,minor,1384107875
+Sassandra,4.95,-6.0833,C?e d?voire,CI,CIV,minor,1384107875
 Sakai,36.1669,136.2314,Japan,JP,JPN,,1392003292
 Newmarket,44.05,-79.4667,Canada,CA,CAN,,1124400266
 Jilotepec,19.9519,-99.5328,Mexico,MX,MEX,minor,1484789785
@@ -6986,7 +6986,7 @@ Santa Rosa Jauregui,20.7418,-100.4473,Mexico,MX,MEX,,1484681374
 Dingcheng,19.6803,110.3681,China,CN,CHN,minor,1156437178
 Guasave,25.5655,-108.4718,Mexico,MX,MEX,minor,1484450749
 Gotenba,35.3087,138.9346,Japan,JP,JPN,,1392876311
-Odienne,9.5,-7.5667,Côte d’Ivoire,CI,CIV,admin,1384967993
+Odienne,9.5,-7.5667,C?e d?voire,CI,CIV,admin,1384967993
 Ciudad de Melilla,35.3,-2.95,Spain,ES,ESP,,1724144891
 Bangkalan,-7.0253,112.7519,Indonesia,ID,IDN,minor,1360714643
 Bantayan,11.2,123.73,Philippines,PH,PHL,,1608493740
@@ -7566,7 +7566,7 @@ Zaandam,52.4333,4.8333,Netherlands,NL,NLD,minor,1528041299
 Mooka,36.4404,140.0134,Japan,JP,JPN,,1392952105
 Arlit,18.7333,7.3833,Niger,NE,NER,minor,1562695011
 Skarzysko-Kamienna,51.1167,20.9167,Poland,PL,POL,minor,1616858398
-Dabakala,8.3667,-4.4333,Côte d’Ivoire,CI,CIV,minor,1384615263
+Dabakala,8.3667,-4.4333,C?e d?voire,CI,CIV,minor,1384615263
 Curepipe,-20.3188,57.5263,Mauritius,MU,MUS,,1480343099
 Dongchuan,25.5086,101.2356,China,CN,CHN,minor,1156868763
 Hengbei,23.8787,115.7309,China,CN,CHN,,1156338217
@@ -7664,7 +7664,7 @@ Alameda,37.7668,-122.267,United States,US,USA,,1840018913
 Santa Rosa,-27.867,-54.467,Brazil,BR,BRA,,1076071027
 Zhongcheng,28.5973,103.9773,China,CN,CHN,minor,1156106189
 Santa Catalina,9.3331,122.8658,Philippines,PH,PHL,,1608085821
-Grand-Lahou,5.1333,-5.0167,Côte d’Ivoire,CI,CIV,minor,1384711432
+Grand-Lahou,5.1333,-5.0167,C?e d?voire,CI,CIV,minor,1384711432
 Stellenbosch,-33.9367,18.8614,South Africa,ZA,ZAF,,1710221701
 Hermosa,14.83,120.5,Philippines,PH,PHL,,1608543263
 Fnidq,35.85,-5.35,Morocco,MA,MAR,,1504670555
@@ -7958,7 +7958,7 @@ Wandiwash,12.5,79.62,India,IN,IND,,1356564734
 Ouake,9.6617,1.3847,Benin,BJ,BEN,,1204988582
 Ramhormoz,31.2753,49.6044,Iran,IR,IRN,minor,1364637975
 Pocatello,42.8724,-112.4647,United States,US,USA,,1840013376
-Bongouanou,6.65,-4.2,Côte d’Ivoire,CI,CIV,minor,1384380718
+Bongouanou,6.65,-4.2,C?e d?voire,CI,CIV,minor,1384380718
 San Juan Opico,13.8833,-89.35,El Salvador,SV,SLV,,1222760219
 Miki,34.7936,134.9931,Japan,JP,JPN,,1392000367
 Oshkosh,44.0227,-88.5619,United States,US,USA,,1840002246
@@ -7970,7 +7970,7 @@ Cinar,37.7242,40.415,Turkey,TR,TUR,minor,1792038099
 Zlin,49.2331,17.6669,Czechia,CZ,CZE,admin,1203582141
 Izumiotsu,34.5,135.4,Japan,JP,JPN,,1392003429
 Caninde,-4.3586,-39.314,Brazil,BR,BRA,minor,1076519156
-Mankono,8.05,-6.1833,Côte d’Ivoire,CI,CIV,minor,1384518405
+Mankono,8.05,-6.1833,C?e d?voire,CI,CIV,minor,1384518405
 Le Kram,36.8333,10.3167,Tunisia,TN,TUN,,1788996070
 Aprilia,41.5833,12.65,Italy,IT,ITA,,1380289716
 Okegawa,36.0057,139.5427,Japan,JP,JPN,,1392003539
@@ -8205,7 +8205,7 @@ Cajamar,-23.3561,-46.8769,Brazil,BR,BRA,,1076369653
 Framingham,42.3085,-71.4368,United States,US,USA,,1840003131
 Camden,39.9361,-75.1073,United States,US,USA,,1840001507
 Sao Sebastiao do Paraiso,-20.9169,-46.9908,Brazil,BR,BRA,,1076022954
-Bouafle,6.9833,-5.75,Côte d’Ivoire,CI,CIV,minor,1384274339
+Bouafle,6.9833,-5.75,C?e d?voire,CI,CIV,minor,1384274339
 Patzun,14.6833,-91.0167,Guatemala,GT,GTM,minor,1320400081
 Georgetown,30.666,-97.6966,United States,US,USA,,1840020875
 Vyborg,60.7167,28.7667,Russia,RU,RUS,minor,1643778472
@@ -8242,7 +8242,7 @@ Dias d'Avila,-12.6128,-38.2969,Brazil,BR,BRA,minor,1076290338
 Lomas del Mirador,-34.6667,-58.5297,Argentina,AR,ARG,,1032639381
 Nanfengcun,23.746,111.7966,China,CN,CHN,,1156559294
 Salama,15.1,-90.2667,Guatemala,GT,GTM,admin,1320223205
-Biankouma,7.7333,-7.6167,Côte d’Ivoire,CI,CIV,minor,1384938071
+Biankouma,7.7333,-7.6167,C?e d?voire,CI,CIV,minor,1384938071
 Lisburn,54.512,-6.031,United Kingdom,GB,GBR,,1826667481
 Rayadrug,14.6997,76.8524,India,IN,IND,,1356086451
 Mamoudzou,-12.7806,45.2278,Mayotte,YT,MYT,primary,1175099654
@@ -8382,7 +8382,7 @@ Hujra Shah Muqim,30.7333,73.8167,Pakistan,PK,PAK,,1586402344
 Sa`dah,16.94,43.7592,Yemen,YE,YEM,admin,1887513055
 Ban Houayxay,20.2631,100.4336,Laos,LA,LAO,admin,1418944950
 Nandura Buzurg,20.8333,76.4597,India,IN,IND,,1356987352
-Dimbokro,6.65,-4.7,Côte d’Ivoire,CI,CIV,admin,1384235566
+Dimbokro,6.65,-4.7,C?e d?voire,CI,CIV,admin,1384235566
 Rizal,15.71,121.1047,Philippines,PH,PHL,,1608031788
 Tinambac,13.8183,123.3244,Philippines,PH,PHL,,1608308136
 Pazarcik,37.4894,37.2967,Turkey,TR,TUR,minor,1792266473
@@ -8719,7 +8719,7 @@ Haverhill,42.7838,-71.0871,United States,US,USA,,1840002450
 Asela,7.95,39.1167,Ethiopia,ET,ETH,,1231347519
 Sousa,-6.7608,-38.2308,Brazil,BR,BRA,minor,1076742573
 Union City,40.7675,-74.0323,United States,US,USA,,1840001034
-Seguela,7.9667,-6.6667,Côte d’Ivoire,CI,CIV,admin,1384639807
+Seguela,7.9667,-6.6667,C?e d?voire,CI,CIV,admin,1384639807
 Shiojiri,36.115,137.9534,Japan,JP,JPN,,1392508735
 Kerpen,50.8719,6.6961,Germany,DE,DEU,,1276675138
 Palatine,42.118,-88.043,United States,US,USA,,1840011311
@@ -9144,7 +9144,7 @@ Nawa,32.8889,36.0431,Syria,SY,SYR,minor,1760963983
 Chincha Alta,-13.45,-76.1333,Peru,PE,PER,,1604035626
 Jose Panganiban,14.2922,122.6928,Philippines,PH,PHL,,1608483049
 Chik Ballapur,13.43,77.72,India,IN,IND,,1356871177
-Guiglo,6.55,-7.4833,Côte d’Ivoire,CI,CIV,minor,1384483732
+Guiglo,6.55,-7.4833,C?e d?voire,CI,CIV,minor,1384483732
 Quimper,47.9967,-4.0964,France,FR,FRA,minor,1250490127
 Donskoy,53.9658,38.3247,Russia,RU,RUS,minor,1643224911
 Athni,16.73,75.07,India,IN,IND,,1356105261
@@ -10406,7 +10406,7 @@ Falakata,26.53,89.2,India,IN,IND,,1356059125
 Uniao da Vitoria,-26.2167,-51.0833,Brazil,BR,BRA,,1076355618
 Chino,35.9955,138.1588,Japan,JP,JPN,,1392143893
 Canoinhas,-26.1769,-50.39,Brazil,BR,BRA,,1076606234
-Touba,8.2833,-7.6833,Côte d’Ivoire,CI,CIV,minor,1384485647
+Touba,8.2833,-7.6833,C?e d?voire,CI,CIV,minor,1384485647
 Agbangnizoun,7.0667,1.9667,Benin,BJ,BEN,,1204553139
 Bilis Qooqaani,0.2822,41.7144,Somalia,SO,SOM,,1706381746
 Elenga,24.3386,89.9219,Bangladesh,BD,BGD,,1050181953
@@ -14003,7 +14003,7 @@ Mitsuke,37.5316,138.9127,Japan,JP,JPN,,1392999982
 Kaseda-shirakame,31.4169,130.3228,Japan,JP,JPN,,1392972590
 Amla,21.9248,78.1279,India,IN,IND,,1356126635
 Rtishchevo,52.2667,43.7667,Russia,RU,RUS,,1643692612
-Toumodi,6.552,-5.019,Côte d’Ivoire,CI,CIV,minor,1384416676
+Toumodi,6.552,-5.019,C?e d?voire,CI,CIV,minor,1384416676
 Ambatomainty,-17.6833,48.2167,Madagascar,MG,MDG,,1450199483
 Al Malikiyah,37.1667,42.1333,Syria,SY,SYR,minor,1760784945
 Trofa,41.35,-8.55,Portugal,PT,PRT,minor,1620889916
@@ -14414,7 +14414,7 @@ Guzelbahce,38.3356,26.8911,Turkey,TR,TUR,,1792765866
 Calpulalpan,19.5869,-98.5683,Mexico,MX,MEX,minor,1484814346
 Jalapa,17.7,-92.8,Mexico,MX,MEX,minor,1484336788
 Karuhatan,14.6883,120.9761,Philippines,PH,PHL,,1608392998
-Manali,13.1667,80.2667,India,IN,IND,,1356866268
+Manali,32.2432,77.1892,India,IN,IND,,1356866268
 Sun City,33.6165,-112.2819,United States,US,USA,,1840019311
 Mixquiahuala de Juarez,20.2311,-99.2131,Mexico,MX,MEX,,1484223912
 Mamun,32.2824,75.6983,India,IN,IND,,1356488565
@@ -14587,7 +14587,7 @@ Ceska Lipa,50.6886,14.5386,Czechia,CZ,CZE,,1203109242
 Lydenburg,-25.096,30.446,South Africa,ZA,ZAF,,1710237640
 Gajendragarh,15.7363,75.9698,India,IN,IND,,1356054157
 Jale,26.38,85.72,India,IN,IND,,1356021966
-Yamoussoukro,6.8161,-5.2742,Côte d’Ivoire,CI,CIV,primary,1384683557
+Yamoussoukro,6.8161,-5.2742,C?e d?voire,CI,CIV,primary,1384683557
 Paravur Tekkumbhagam,8.811,76.669,India,IN,IND,,1356176530
 Bouznika,33.7897,-7.1575,Morocco,MA,MAR,,1504766743
 Jelilyuzi,43.9749,81.5328,China,CN,CHN,,1156123923
@@ -15751,7 +15751,7 @@ Badiadka,12.5833,75.0667,India,IN,IND,,1356486708
 Shahin Dezh,36.6806,46.5681,Iran,IR,IRN,minor,1364208028
 Sereflikochisar,38.9444,33.5419,Turkey,TR,TUR,minor,1792505999
 Karoi,-16.81,29.7,Zimbabwe,ZW,ZWE,,1716627056
-Toumoukro,10.3833,-5.75,Côte d’Ivoire,CI,CIV,,1384732814
+Toumoukro,10.3833,-5.75,C?e d?voire,CI,CIV,,1384732814
 Eastchester,40.9536,-73.8133,United States,US,USA,,1840058058
 Toon,33.7833,132.8667,Japan,JP,JPN,,1392003399
 Valuyki,50.2167,38.1,Russia,RU,RUS,,1643337970
@@ -16094,7 +16094,7 @@ Butajira,8.1208,38.3792,Ethiopia,ET,ETH,,1231050211
 Date,42.4667,140.8667,Japan,JP,JPN,,1392999978
 Geraardsbergen,50.7667,3.8667,Belgium,BE,BEL,,1056572611
 Paso de Ovejas,19.285,-96.44,Mexico,MX,MEX,minor,1484005936
-Kong,9.15,-4.6167,Côte d’Ivoire,CI,CIV,minor,1384360739
+Kong,9.15,-4.6167,C?e d?voire,CI,CIV,minor,1384360739
 Riachao do Jacuipe,-11.81,-39.3819,Brazil,BR,BRA,minor,1076945082
 Namhkam,23.8333,97.6833,Burma,MM,MMR,,1104658655
 Asakuchi,34.5247,133.5875,Japan,JP,JPN,,1392999990
@@ -16345,7 +16345,7 @@ Shaliuhe,39.8728,117.939,China,CN,CHN,,1156835618
 Franklin,42.0862,-71.4113,United States,US,USA,,1840031178
 St. Charles,41.9193,-88.3109,United States,US,USA,,1840009190
 Bela Cruz,-3.0508,-40.1678,Brazil,BR,BRA,minor,1076116893
-Rubino,6.0667,-4.3167,Côte d’Ivoire,CI,CIV,,1384906865
+Rubino,6.0667,-4.3167,C?e d?voire,CI,CIV,,1384906865
 Delbruck,51.7667,8.5667,Germany,DE,DEU,,1276424035
 Ubajara,-3.85,-40.9333,Brazil,BR,BRA,minor,1076215653
 Bocas de Satinga,2.3469,-78.3256,Colombia,CO,COL,minor,1170318285
@@ -16544,7 +16544,7 @@ Tafas,32.7356,36.0669,Syria,SY,SYR,,1760012771
 Sao Bento,-6.4858,-37.4508,Brazil,BR,BRA,minor,1076842336
 Termoli,42,14.9833,Italy,IT,ITA,,1380386947
 Kangasala,61.4667,24.0667,Finland,FI,FIN,minor,1246606231
-Jacqueville,5.2,-4.4167,Côte d’Ivoire,CI,CIV,minor,1384785975
+Jacqueville,5.2,-4.4167,C?e d?voire,CI,CIV,minor,1384785975
 La Calera,-31.3439,-64.3353,Argentina,AR,ARG,,1032927400
 Laranjeiras do Sul,-25.4167,-52.4167,Brazil,BR,BRA,,1076918166
 Yokaichiba,35.7,140.5604,Japan,JP,JPN,,1392512900
@@ -18397,7 +18397,7 @@ Bagha Purana,30.6881,75.0984,India,IN,IND,,1356036328
 Losal,27.4,74.92,India,IN,IND,,1356031120
 Dubasari,47.2667,29.1667,Moldova,MD,MDA,,1498583082
 Ambatolampy,-19.3861,47.4292,Madagascar,MG,MDG,,1450037305
-Bin-Houye,6.7833,-8.3167,Côte d’Ivoire,CI,CIV,,1384806115
+Bin-Houye,6.7833,-8.3167,C?e d?voire,CI,CIV,,1384806115
 Longavi,-35.9667,-71.6833,Chile,CL,CHL,,1152122275
 Rajpur,22.3053,74.3525,India,IN,IND,,1356223466
 Heerenveen,52.9667,5.9167,Netherlands,NL,NLD,minor,1528356043
@@ -18713,7 +18713,7 @@ Goriar,25.5513,87.2046,India,IN,IND,,1356026819
 Hamar,60.7945,11.0679,Norway,NO,NOR,admin,1578111692
 Canosa di Puglia,41.2167,16.0667,Italy,IT,ITA,,1380837242
 Vilangudi,9.9458,78.0935,India,IN,IND,,1356235420
-Noe,5.2833,-2.8,Côte d’Ivoire,CI,CIV,,1384503232
+Noe,5.2833,-2.8,C?e d?voire,CI,CIV,,1384503232
 Douglas,54.15,-4.4775,Isle of Man,IM,IMN,primary,1833688345
 Tsinjoarivo,-18.9333,46.3167,Madagascar,MG,MDG,,1450298456
 Aloran,8.4146,123.8228,Philippines,PH,PHL,,1608445813
@@ -21713,7 +21713,7 @@ Monte Caseros,-30.25,-57.65,Argentina,AR,ARG,minor,1032051417
 Krychaw,53.7194,31.7139,Belarus,BY,BLR,minor,1112203208
 Les Lilas,48.88,2.42,France,FR,FRA,,1250804499
 Kyenjojo,0.61,30.6442,Uganda,UG,UGA,admin,1800420914
-Bonoufla,7.1333,-6.4833,Côte d’Ivoire,CI,CIV,,1384583177
+Bonoufla,7.1333,-6.4833,C?e d?voire,CI,CIV,,1384583177
 Dank,23.55,56.25,Oman,OM,OMN,,1512330290
 Tapaktuan,3.25,97.1667,Indonesia,ID,IDN,,1360203588
 Muggio,45.6,9.2333,Italy,IT,ITA,,1380948758
@@ -22529,7 +22529,7 @@ Goulburn,-34.7547,149.6186,Australia,AU,AUS,,1036347537
 Sibut,5.7333,19.0833,Central African Republic,CF,CAF,admin,1140802055
 Formby,53.5586,-3.0666,United Kingdom,GB,GBR,,1826350182
 Fenyuan,24.0154,120.6274,Taiwan,TW,TWN,,1158373673
-Sipilou,7.8667,-8.1,Côte d’Ivoire,CI,CIV,minor,1384489288
+Sipilou,7.8667,-8.1,C?e d?voire,CI,CIV,minor,1384489288
 Maying,36.0448,102.8343,China,CN,CHN,,1156786456
 Kasamatsucho,35.3672,136.7632,Japan,JP,JPN,,1392337002
 Jebba,9.1539,4.8119,Nigeria,NG,NGA,,1566859918
@@ -23869,7 +23869,7 @@ Mulanje,-16.0258,35.5081,Malawi,MW,MWI,admin,1454459215
 Sint-Katelijne-Waver,51.0667,4.5333,Belgium,BE,BEL,,1056641832
 Palavur,8.2055,77.5755,India,IN,IND,,1356207947
 Murree,33.9042,73.3903,Pakistan,PK,PAK,,1586573416
-Zaliohouan,6.7833,-6.2333,Côte d’Ivoire,CI,CIV,,1384464976
+Zaliohouan,6.7833,-6.2333,C?e d?voire,CI,CIV,,1384464976
 Kyaukpyu,19.4264,93.5458,Burma,MM,MMR,,1104321745
 Saint-Gratien,48.9719,2.2828,France,FR,FRA,,1250437632
 Sotomayor,1.4933,-77.5214,Colombia,CO,COL,minor,1170028050
@@ -24608,7 +24608,7 @@ Agoura Hills,34.151,-118.7609,United States,US,USA,,1840019221
 Kwinana,-32.2394,115.7702,Australia,AU,AUS,,1036753478
 Denderleeuw,50.8833,4.0667,Belgium,BE,BEL,,1056940491
 Piata,-13.1519,-41.7728,Brazil,BR,BRA,,1076965832
-Yabayo,5.95,-6.6,Côte d’Ivoire,CI,CIV,,1384922069
+Yabayo,5.95,-6.6,C?e d?voire,CI,CIV,,1384922069
 Siran,40.1894,39.1267,Turkey,TR,TUR,minor,1792645839
 Douglas,-29.05,23.7667,South Africa,ZA,ZAF,,1710291647
 Lonar,19.9853,76.5205,India,IN,IND,,1356253434
@@ -25079,7 +25079,7 @@ Karuizawa,36.3486,138.5969,Japan,JP,JPN,,1392706783
 Kondur,9.6856,76.7622,India,IN,IND,,1356777351
 Nove Mesto nad Vahom,48.7547,17.8308,Slovakia,SK,SVK,minor,1703781613
 Villa Elisa,-34.8533,-58.0792,Argentina,AR,ARG,,1032522671
-Luenoufla,7.0667,-6.25,Côte d’Ivoire,CI,CIV,,1384556975
+Luenoufla,7.0667,-6.25,C?e d?voire,CI,CIV,,1384556975
 Dayr Abu Hinnis,27.7864,30.905,Egypt,EG,EGY,,1818016476
 Davyhulme,53.4559,-2.3683,United Kingdom,GB,GBR,,1826976833
 Villabate,38.0833,13.45,Italy,IT,ITA,,1380925596
@@ -26917,7 +26917,7 @@ Ituacu,-13.8167,-41.3,Brazil,BR,BRA,,1076736927
 Narni,42.5167,12.5167,Italy,IT,ITA,,1380161361
 Pelaya,8.6833,-73.6667,Colombia,CO,COL,minor,1170015000
 Pornic,47.1167,-2.1,France,FR,FRA,,1250278368
-Mabehiri,5.6833,-6.4167,Côte d’Ivoire,CI,CIV,,1384102956
+Mabehiri,5.6833,-6.4167,C?e d?voire,CI,CIV,,1384102956
 Chateauneuf-les-Martigues,43.3838,5.165,France,FR,FRA,,1250884154
 Khokha,25.9741,87.4062,India,IN,IND,,1356887547
 Natchitoches,31.7315,-93.0975,United States,US,USA,,1840014925
@@ -27273,7 +27273,7 @@ Raghunathpur,25.844,86.9697,India,IN,IND,,1356067962
 Neder-Over-Heembeek,50.9,4.3833,Belgium,BE,BEL,,1056378627
 Bad Wildungen,51.1167,9.1167,Germany,DE,DEU,,1276828659
 Palau,27.9167,-101.4167,Mexico,MX,MEX,,1484142037
-Para,5.5167,-7.3333,Côte d’Ivoire,CI,CIV,,1384364677
+Para,5.5167,-7.3333,C?e d?voire,CI,CIV,,1384364677
 Marcon,45.5667,12.3,Italy,IT,ITA,,1380183530
 Laatatra,32.6315,-8.4148,Morocco,MA,MAR,,1504800245
 Srbac,45.0958,17.5192,Bosnia and Herzegovina,BA,BIH,minor,1070950243
@@ -28180,7 +28180,7 @@ Agaram,10.4433,77.9485,India,IN,IND,,1356245534
 Boa Vista do Tupim,-12.66,-40.6089,Brazil,BR,BRA,minor,1076115228
 Annonay,45.2408,4.6714,France,FR,FRA,,1250947806
 Pleszew,51.8833,17.7833,Poland,PL,POL,minor,1616452688
-Bedigoazon,6.5667,-7.7833,Côte d’Ivoire,CI,CIV,,1384014562
+Bedigoazon,6.5667,-7.7833,C?e d?voire,CI,CIV,,1384014562
 Lamas,-6.4167,-76.5333,Peru,PE,PER,,1604035883
 Ashmyany,54.425,25.9375,Belarus,BY,BLR,minor,1112383165
 Colesberg,-30.7167,25.1,South Africa,ZA,ZAF,,1710885210
@@ -29552,7 +29552,7 @@ Bonito,-11.9658,-41.2669,Brazil,BR,BRA,,1076286351
 Osowa,54.4272,18.4708,Poland,PL,POL,,1616417029
 Jatauba,-7.9667,-36.4833,Brazil,BR,BRA,,1076599725
 Gandevi,20.82,72.98,India,IN,IND,,1356081460
-Brofodoume,5.5167,-3.9333,Côte d’Ivoire,CI,CIV,,1384691434
+Brofodoume,5.5167,-3.9333,C?e d?voire,CI,CIV,,1384691434
 Chhapra Bahas,26.7266,84.7912,India,IN,IND,,1356641308
 Simmerath,50.6069,6.3,Germany,DE,DEU,,1276931162
 Saint-Julien-en-Genevois,46.1436,6.0811,France,FR,FRA,minor,1250672754
@@ -30879,7 +30879,7 @@ Riverdale,33.5639,-84.4103,United States,US,USA,,1840014815
 Itahara,26.55,87.62,Nepal,NP,NPL,,1524010413
 Jisr ez Zarqa,32.5381,34.9122,Israel,IL,ISR,,1376963985
 Malsch,48.8808,8.3342,Germany,DE,DEU,,1276981496
-Ahigbe Koffikro,5.4,-3.3833,Côte d’Ivoire,CI,CIV,,1384105456
+Ahigbe Koffikro,5.4,-3.3833,C?e d?voire,CI,CIV,,1384105456
 Beckingen,49.3928,6.7008,Germany,DE,DEU,,1276301126
 Chemmanam,9.8072,76.2774,India,IN,IND,,1356162169
 Gourrama,32.3333,-4.0833,Morocco,MA,MAR,,1504780592
@@ -30953,7 +30953,7 @@ Taruma,-22.7467,-50.5772,Brazil,BR,BRA,,1076499806
 Branchburg,40.5629,-74.714,United States,US,USA,,1840081705
 Bacuag,9.6081,125.6405,Philippines,PH,PHL,,1608421649
 Przeworsk,50.0667,22.5,Poland,PL,POL,minor,1616040608
-Doukouya,6.4333,-5.55,Côte d’Ivoire,CI,CIV,,1384210901
+Doukouya,6.4333,-5.55,C?e d?voire,CI,CIV,,1384210901
 Champapur,26.8881,84.834,India,IN,IND,,1356899056
 Highland Springs,37.5516,-77.3285,United States,US,USA,,1840006391
 Ngolobougou,12.1733,-6.7089,Mali,ML,MLI,,1466137512
@@ -31499,7 +31499,7 @@ Vitomirice,42.6819,20.3173,Kosovo,XK,XKS,,1901482786
 Sha Kok Mei,22.3784,114.1941,Hong Kong,HK,HKG,,1344631625
 Pandhana,21.6982,76.2249,India,IN,IND,,1356002397
 Herselt,51.05,4.8833,Belgium,BE,BEL,,1056803578
-Minignan,10,-7.8333,Côte d’Ivoire,CI,CIV,minor,1384218318
+Minignan,10,-7.8333,C?e d?voire,CI,CIV,minor,1384218318
 Corinth,34.9474,-88.5143,United States,US,USA,,1840014638
 Anapoima,4.5503,-74.5361,Colombia,CO,COL,minor,1170450555
 Moston,53.5156,-2.1848,United Kingdom,GB,GBR,,1826000013
@@ -32190,7 +32190,7 @@ Wittstock,53.1636,12.4856,Germany,DE,DEU,,1276000618
 Jacksonville,31.9642,-95.2617,United States,US,USA,,1840019515
 Eraura,24.613,84.4555,India,IN,IND,,1356012077
 Mu'minobod,38.1083,70.0292,Tajikistan,TJ,TJK,minor,1762625291
-Pelezi,7.2833,-6.8333,Côte d’Ivoire,CI,CIV,,1384934552
+Pelezi,7.2833,-6.8333,C?e d?voire,CI,CIV,,1384934552
 Banos,-1.3964,-78.4247,Ecuador,EC,ECU,,1218100027
 Lachute,45.65,-74.3333,Canada,CA,CAN,,1124217062
 Trepuzzi,40.4,18.0667,Italy,IT,ITA,,1380618729
@@ -32300,7 +32300,7 @@ Suknadanga,24.46,88.05,India,IN,IND,,1356740992
 Karai,12.9377,79.3163,India,IN,IND,,1356356577
 Uttukkottai,13.3354,79.898,India,IN,IND,,1356351109
 Rio Azul,-25.7328,-50.7958,Brazil,BR,BRA,,1076547411
-Mignoure,7.4833,-6.7833,Côte d’Ivoire,CI,CIV,,1384735479
+Mignoure,7.4833,-6.7833,C?e d?voire,CI,CIV,,1384735479
 Barari,25.5068,87.3761,India,IN,IND,,1356712266
 Primrose,-26.1833,28.1667,South Africa,ZA,ZAF,,1710333435
 Itaguacu,-18.8,-40.85,Brazil,BR,BRA,,1076753541
@@ -45116,7 +45116,7 @@ Iskourane,30.8433,-9.8186,Morocco,MA,MAR,,1504820847
 Msemrir,31.7028,-5.8125,Morocco,MA,MAR,,1504469179
 Hunduan,16.83,121,Philippines,PH,PHL,,1608819248
 Rabo de Peixe,37.8103,-25.5861,Portugal,PT,PRT,,1620488463
-Papara,10.6167,-6.25,Côte d’Ivoire,CI,CIV,,1384525930
+Papara,10.6167,-6.25,C?e d?voire,CI,CIV,,1384525930
 Schleiz,50.5833,11.8167,Germany,DE,DEU,minor,1276386563
 Kambur,10.1599,78.3264,India,IN,IND,,1356214522
 Golakpur,25.1777,85.0728,India,IN,IND,,1356145038
@@ -47803,7 +47803,7 @@ Haa,27.3825,89.285,Bhutan,BT,BTN,admin,1064717667
 Lhuentse,27.65,91.15,Bhutan,BT,BTN,admin,1064227529
 Tsirang,27.0219,90.1229,Bhutan,BT,BTN,admin,1064617460
 Loango,-4.6561,11.8114,Congo (Brazzaville),CG,COG,admin,1178836764
-Bangolo,7.0123,-7.4864,Côte d’Ivoire,CI,CIV,admin,1384048438
+Bangolo,7.0123,-7.4864,C?e d?voire,CI,CIV,admin,1384048438
 Chuquicamata,-22.3169,-68.9301,Chile,CL,CHL,,1152468996
 Panying,33.0023,112.5281,China,CN,CHN,,1156979429
 Chengde,40.9604,117.93,China,CN,CHN,minor,1156197800
